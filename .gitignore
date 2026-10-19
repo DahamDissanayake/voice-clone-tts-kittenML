@@ -1,0 +1,6 @@
+.venv/
+voices/
+outputs/
+*.log
+__pycache__/
+reference_trimmed.wav
